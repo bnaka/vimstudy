@@ -1,3 +1,3 @@
 FirstStep.o: FirstStep.cpp
 all:
-	gcc -o FirstStep.o
+	g++ -o FirstStep.o
